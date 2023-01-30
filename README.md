@@ -2,4 +2,4 @@
 
 I study in Netology
 
-23.33.33/
+I study in Yetology!
